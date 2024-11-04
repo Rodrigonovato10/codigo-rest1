@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node"
   },
   "author": "Luis rodrigo (https://github.com/Rodrigonovato10)",
   "license": "ISC",
